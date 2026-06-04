@@ -19,7 +19,6 @@
 ---
 
 ## Q1 — What is CSS and how do you add it to an HTML page?
-> **Beginner | 5 Marks**
 
 ### What is CSS?
 
@@ -105,7 +104,6 @@ h1 {
 ---
 
 ## Q2 — CSS Selectors
-> **Beginner | 8 Marks**
 
 ### What are CSS Selectors?
 
@@ -193,7 +191,6 @@ ul > li {
 ---
 
 ## Q3 — CSS Box Model
-> **Beginner | 7 Marks**
 
 ### What is the Box Model?
 
@@ -265,7 +262,6 @@ Every HTML element is rendered as a **rectangular box**. The CSS Box Model descr
 ---
 
 ## Q4 — CSS Colors
-> **Beginner | 6 Marks**
 
 ### Five Ways to Define Color in CSS
 
@@ -314,7 +310,6 @@ Every HTML element is rendered as a **rectangular box**. The CSS Box Model descr
 ---
 
 ## Q5 — CSS Units
-> **Beginner | 7 Marks**
 
 ### CSS Unit Reference
 
@@ -366,7 +361,6 @@ Every HTML element is rendered as a **rectangular box**. The CSS Box Model descr
 ---
 
 ## Q6 — CSS Specificity and the Cascade
-> **Intermediate | 8 Marks**
 
 ### What is Specificity?
 
@@ -426,7 +420,6 @@ p {
 ---
 
 ## Q7 — CSS Flexbox
-> **Intermediate | 10 Marks**
 
 ### What is Flexbox?
 
@@ -543,7 +536,6 @@ p {
 ---
 
 ## Q8 — CSS Pseudo-classes and Pseudo-elements
-> **Intermediate | 9 Marks**
 
 ### The Difference
 
@@ -656,7 +648,6 @@ input::placeholder {
 ---
 
 ## Q9 — CSS Transitions and Animations
-> **Advanced | 10 Marks**
 
 ### Transitions vs Animations
 
@@ -776,7 +767,6 @@ Animating `transform` and `opacity` only triggers the **compositing** step of th
 ---
 
 ## Q10 — Responsive Web Design
-> **Advanced | 10 Marks**
 
 ### Part A — Media Queries
 
@@ -1005,16 +995,3 @@ document.documentElement.setAttribute('data-theme', 'dark');
 // Remove it to go back to light
 document.documentElement.removeAttribute('data-theme');
 ```
-
----
-
-## Submission Checklist
-
-- [x] All 10 questions answered with explanations
-- [x] All code examples included in proper code blocks
-- [x] Questions organised under `## Q1` ... `## Q10` headings
-- [x] README written in clean, professional Markdown
-
----
-
-*MERN Stack + AI Engineering Bootcamp — Week 2 CSS Assignment | TechnerLab Academy*
